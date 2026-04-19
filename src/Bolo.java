@@ -40,7 +40,7 @@ public class Bolo {
             System.out.println(" vc montou o bolo");
 
         }else{
-            System.out.println(" vc perdeu nao conseguiu fazer o bolo ");
+            System.out.println(" vc perdeu nao conseguiu fazer o bolo o bolo queimou ");
         }
     }
 }
