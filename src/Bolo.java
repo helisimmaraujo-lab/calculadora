@@ -9,7 +9,7 @@ public class Bolo {
                 "despejar a massa na forma",
                 "colocar o bolo no forno",
                 "retirar o bolo do forno"
-
+//teste
         };
         int etapaAtual = 0;
 
