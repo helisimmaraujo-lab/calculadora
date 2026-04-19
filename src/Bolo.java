@@ -9,7 +9,7 @@ public class Bolo {
                 "despejar a massa na forma",
                 "colocar o bolo no forno",
                 "retirar o bolo do forno"
-//teste
+
         };
         int etapaAtual = 0;
 
@@ -40,7 +40,7 @@ public class Bolo {
             System.out.println(" vc montou o bolo");
 
         }else{
-            System.out.println(" vc perdeu nao conseguiu fazer o bolo o bolo queimou ");
+            System.out.println(" vc perdeu nao conseguiu fazer o bolo");
         }
     }
 }
