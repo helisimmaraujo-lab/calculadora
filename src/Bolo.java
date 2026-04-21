@@ -13,12 +13,13 @@ public class Bolo {
         };
         int etapaAtual = 0;
 
-        System.out.println("THE CAKE GAME !!");
-        System.out.println(" monte o bolo na ordem certa:");
+        System.out.println("\nTHE CAKE GAME !!\n\n")
+
+        System.out.println(" monte o bolo na ordem certa:\n\n");
 
         while (etapaAtual < passos.length) {
 
-            System.out.println(" escolha o proximo passo");
+            System.out.println(" escolha o proximo passo\n");
 
             for (int i = 0; i < passos.length; i++) {
                 System.out.println("passo " + i + " - " + passos[i]);
